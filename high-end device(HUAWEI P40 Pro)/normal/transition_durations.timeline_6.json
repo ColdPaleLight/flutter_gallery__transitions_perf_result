@@ -1,0 +1,38 @@
+{
+  "/shrine": [
+    54068,
+    15590
+  ],
+  "/contacts": [
+    30398,
+    32356
+  ],
+  "/animation": [
+    40567,
+    20415
+  ],
+  "/material/bottom_navigation": [
+    18650,
+    9329
+  ],
+  "/material/buttons": [
+    26577,
+    20245
+  ],
+  "/material/cards": [
+    14880,
+    26151
+  ],
+  "/material/chip": [
+    62823,
+    43598
+  ],
+  "/material/dialog": [
+    17857,
+    18501
+  ],
+  "/material/date-and-time-pickers": [
+    33268,
+    13501
+  ]
+}
